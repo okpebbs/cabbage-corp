@@ -34,4 +34,4 @@ _select_data: {}
 _structures: {}
 _editables: {}
 data_config: {}
-timezone: Etc/UTC
+timezone: US/Pacific
